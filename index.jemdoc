@@ -3,7 +3,11 @@
 
 ~~~
 {}{img_left}{photos/devansh.jpeg}{alt text}{200px}
+<<<<<<< HEAD
+I am currently a first year CS PhD student at University of Southern California in the [https://viterbi-web.usc.edu/~cstheory/ CS Theory Group] and [https://sites.usc.edu/razaviyayn/group/ ODDS Group] where I am advised by [https://sites.usc.edu/razaviyayn/ Meisam Razaviyayn] and [https://vatsalsharan.github.io/ Vatsal Sharan]. I am broadly interested in working on fundamental problems in Continuous Optimization and Differential Privacy. Before joining USC, I recieved a B.Tech in Computer Science and Artificial Intelligence from IIIT Delhi. \n 
+=======
 I am currently a first year CS PhD student at University of Southern California in the [https://viterbi-web.usc.edu/~cstheory/ CS Theory Group] and [https://sites.usc.edu/razaviyayn/group/ ODDS Group] where I am advised by [https://sites.usc.edu/razaviyayn/ Meisam Razaviyayn] and [https://vatsalsharan.github.io/ Vatsal Sharan]. I am broadly interested in working on problems in Learning Theory, Large Scale Optimization, and Differential Privacy. Before joining USC, I recieved a B.Tech in Computer Science and Artificial Intelligence from IIIT Delhi. \n 
+>>>>>>> c0214babded7c8ca02318e7876866087911f21bd
 \n
 Email: guptadev (at) usc.edu \n
 \[[https://scholar.google.com/citations?user=C0nqTjsAAAAJ&hl=en Google Scholar]\] \n
