@@ -100,7 +100,7 @@ a:focus-visible {
   top: 3rem;
   overflow: hidden;
   width: 100%;
-  aspect-ratio: 4 / 5;
+  aspect-ratio: 1;
   border: 8px solid #fff;
   border-radius: 8px;
   background: #dbe3e9;
