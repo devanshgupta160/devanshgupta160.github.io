@@ -10,22 +10,23 @@ Email: guptadev (at) usc.edu \n
 ~~~
 
 == Publications
-- [devanshgupta160.github.io Efficient DP-SGD for LLMs with Randomized Clipping]  \n
+- [https://arxiv.org/abs/2605.24879 Efficient DP-SGD for LLMs with Randomized Clipping]  \n
 Enayat Ullah, Sai Aparna Aketi, Devansh Gupta, Huanyu Zhang, Meisam Razaviyayn \n
 ICML 2026 \n
 TPDP 2026 \n
 
-- [https://arxiv.org/pdf/2506.15588 Memory-Efficient Differentially Private Training with Gradient Random Projection]  \n
+- [https://arxiv.org/abs/2506.15588 Memory-Efficient Differentially Private Training with Gradient Random Projection]  \n
 Alex Mulrooney, Devansh Gupta, James Flemings, Huanyu Zhang, Murali Annavaram, Meisam Razaviyayn, Xinwei Zhang \n
 TMLR 2026 \n
 
-- [https://arxiv.org/pdf/2507.05610 Inherent Privacy of Zeroth-Order Projected Gradient Descent]  \n
+- [https://arxiv.org/abs/2507.05610 Inherent Privacy of Zeroth-Order Projected Gradient Descent]  \n
 Devansh Gupta, Meisam Razaviyayn, Vatsal Sharan \n
 AISTATS 2025 \n
 OPT 2024 at NeurIPS (Oral) \n
 
 - [https://arxiv.org/abs/2411.07889 A Stochastic Optimization Framework for Private and Fair Learning From Decentralized Data]  \n
 Devansh Gupta, A.S. Poornash, Andrew Lowy, Meisam Razaviyayn \n
+TMLR 2026 \n
 PPAI 2025 at AAAI \n
 
 - [https://arxiv.org/abs/2210.08781 Stochastic Differentially Private and Fair Learning]  \n
