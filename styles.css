@@ -360,6 +360,14 @@ h1 {
   font-weight: 750;
 }
 
+.author-order-note {
+  margin: 0.3rem 0 0;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-style: italic;
+  line-height: 1.45;
+}
+
 .site-footer {
   border-top: 1px solid var(--line);
   background: var(--page);
